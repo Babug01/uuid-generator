@@ -1,6 +1,6 @@
 # UUID Generator
 
-**Live demo:** https://babug01.github.io/uuid-generator/
+**Live demo:** https://uuid-generator-eight-chi.vercel.app (Vercel) · [GitHub Pages mirror](https://babug01.github.io/uuid-generator/)
 
 Generate UUID v4s one at a time or in bulk, and validate/decode any UUID-shaped string — version,
 variant, and the nil/max special cases. Runs entirely in the browser; nothing you generate or
